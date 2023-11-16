@@ -526,7 +526,6 @@ bottom: 6.25%;
 background: #000000;
 ```
 ## OUTPUT:
-![image](https://github.com/Darkwebnew/Figma/assets/143114486/5cb719fd-b71c-43f5-9a99-22a1e2b82623)
 ![Output](https://github.com/Darkwebnew/Figma/assets/143114486/cf634474-dc1d-4100-80f7-7ef2a7dc60bb)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
