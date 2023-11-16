@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+# EX 09 Event Registration Web Application
 ## Date:
 
 ## AIM:
